@@ -1,10 +1,10 @@
 # Contact-Management
-<p> Created contact Management system using c++. 
+<p> Created contact management system using C++. 
   <br>
-  features:
+  Features:
   <br>-> Stores data in Text Document.
-  <br>-> Dispaly contact list.
+  <br>-> Display contact list.
   <br>-> Show sorted contact list.
   <br>-> Search contact by name.
-  <br>-> Update contect by name.
+  <br>-> Update contact by name.
 </p>
